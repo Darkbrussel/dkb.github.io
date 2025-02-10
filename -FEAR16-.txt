@@ -1,0 +1,36 @@
+<style type="text/css">#avatar_name, .imvucodes_net { display:none !important; }</style><style type="text/css">
+#aboutme_panel, #contact_panel, #dev_panel, #wishlist_panel, #visitors_panel, #messages_panel, #tagcloud_panel, #stickers_panel, #collect_panel, #room_panel,#rankings_panel, #cool_panel, #gallery_panel, #friends_panel, #streetteam_panel, #blog_panel, #music_panel, #rss_panel, #url_panel,#special_panel,#outfits_panel, #groups_panel, #video_panel, #badge_panel, #updates_panel, #slideshow_panel, #badges_panel, .imvucodes_net { width:900px !important; }
+#video_panel_header, #xtended_dev_panel_header{ display: none;}
+#rightColumn { display:none !important; }</style>
+<style type="text/css">
+#video_panel,.imvucodes_net { margin-left: -130px!important; }
+</style><style type="text/css">
+*, .imvucodes_net { font-size:9px !important; }*:focus {outline: none;}
+<style type="text/css">
+#video_panel_colRow, .imvucodes_net { display:none !important; }</style>
+<style type="text/css">#video_panel_header,.imvucodes_net { display:none; }</style>
+<style type="text/css">
+a:link { color: #933600 !important; } a:visited { color: #933600 !important; } a:active { color: #933600 !important; }a:hover { color: #933600 !important; }</style>
+<body>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOgaIGgbQAwUd_t23tWxsH9WTqKSIOb3al4zTRTlfTk1K_vUUAv3rZDov2RL8ecredDVzGOW_PC3qccrglWPM5mrckwzHJ5Ui9WGISsoteZjqOV2fasgrkZlrM4vdAJD9am-OGfI7lDvbw11WkgMq5g=w1148-h868-s-no-gm?authuser=0" alt="" width="1148" height="868" usemap="#Map"/>
+<map name="Map">
+  <area shape="rect" coords="255,144,328,213" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Homepage.html" target="Nyk1">
+  <area shape="rect" coords="164,222,246,290" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-About.html" target="Nyk1">
+  <area shape="rect" coords="44,252,131,324" href="https://imvu.com/shop/web_search.php?manufacturers_id=44194537&r=acw" target="_blank">
+  <area shape="rect" coords="1012,249,1094,325" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Love.html" target="Nyk1">
+  <area shape="rect" coords="890,219,974,297" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Customs.html" target="Nyk1">
+  <area shape="rect" coords="808,141,884,216" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Support.html" target="Nyk1">
+  <area shape="rect" coords="503,803,648,815" href="https://www.such-style.com" target="_blank">
+</map>
+<div id="M" style="position:absolute;z-index: 5; height: 260px;  width: 496px; left: 459px;  top: 497px;">
+<iframe name='Nyk1' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Homepage.html" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+</div>
+<div id="M" style="position:absolute;  z-index: 5;height: 30px;width: 358px;  left: 403px; top: 195px;">
+<iframe name='Nyk' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Shout.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+</div>
+<div id="M" style="position:absolute; z-index: 5;height: 170px; width: 267px; left: 168px; top: 551px;">
+<iframe name='Nyk' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Music.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+</div>
+<div id="O" style="position:absolute; width:160px; height:220px; z-index:2; left: 493px; top: 241px;">
+<img src="https://www.imvu.com/catalog/web_av_pic.php?av=Radon" width="160" height="220">
+</div></body>

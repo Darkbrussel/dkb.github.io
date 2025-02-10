@@ -1,0 +1,26 @@
+/*© N Y C K Y S  - - R I G H T S - - R E S E R V E D *//*http://www.such-style.com *//*© 2008 - 2018 Nyckys | ALL RIGHTS RESERVED. | SUCH STYLE! ™  */
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+body{ color: #b57457; font-size:10pt!important; font-family: Questrial;     background-color: #transparent;  word-spacing: 3px; cursor: crosshair; }
+a:link,a:visited,a:active{   color: #ec812b; border-bottom: 1px dashed #ec812b;  font-weight: bold; text-decoration : none;  padding: 1px; }
+a:hover{color: #fff;   background-color: #ec812b; text-decoration :none;}
+H1 { color: #ec812b; text-align:center; margin: 1px;  font-family: 'Pacifico'; font-size:   24pt;   font-weight: normal;  text-transform: ; letter-spacing: 1px;  word-spacing: 1px;   }
+H2 {color: #ec812b;  text-align:center;  font: normal 5.6pt small fonts; font-family: 'Montserrat';  font-weight: bold;  text-transform:uppercase;   letter-spacing: 1px; word-spacing: 2px; line-height: 1pt;   }
+H3 {color: #d29b4c;  border-left: 3px solid #d29b4c; margin: 1;  font-family: 'Montserrat'; font-size:  15pt;  text-transform:uppercase;  letter-spacing: 5px; line-height: 10pt ;   padding: 10px 0px 10px 10px; font-weight: normal;}
+H3 span {  font: normal 5.6pt small fonts; font-family: 'Montserrat';  font-weight: normal;  text-transform:uppercase;  display: block;  padding: 5px 0px 0px 0px; letter-spacing: 2px;}
+H4 { color: #ec812b; text-align:; margin: 1px;  font-family: 'Questrial'; font-size:   19pt;   font-weight:normal;  text-transform:uppercase;   letter-spacing: 1px;  word-spacing: 1px;  text-shadow:  0px 0px 1px #f9cada;  padding: 10px 0px 0px 0px; line-height: 2pt;}
+H5 {background-color: #ec812b; color: #fff;  text-align:;  font: normal 5.6pt small fonts; font-family: 'Montserrat';  font-weight:normal;  text-transform:uppercase;   letter-spacing: 1px; word-spacing: 2px; line-height: 1pt; text-shadow:  0px 0px 1px #f9cada;    padding: 5px 0px 5px 5px;}
+B{color: #ff6e00;  }
+I{color: #ffe1d4;}
+U{color: #000000;    border-bottom : 1px dashed #000000; text-decoration : none; }
+S{color: #ffd45a;  }
+H{color: #3e1a0a;background-color: #ffb000;   padding: 1px 3px 1px 3px;}
+HR{ border-bottom: 1px dotted #ff6e00; height: 1px;    border-top: none;  border-left: none; border-right: none }
+blockquote{border-left:3px solid #ff6e00; border-right:3px solid #ff6e00; color: #ff6e00; background-color:#392018;  text-align: center;font-size:  14px; padding: 6px;}
+size1{font-size: 30px!important; } size2{font-size: 40px!important;} size3{font-size: 50px!important;} size4{font-size: 60px!important;} size5{font-size: 70px!important;} 
+Black{color: #000000;} White{color: #ffffff;} Red{color: #d40000;} Pink{color: #ed6199;} Yellow{color: #f8c333;} Orange{color: #d46400;} Sky{color: #00b4d4;} Blue{color: #18567a;} Lime{color: #9ad434;} Violet{color: #7b22a9;} 
+img{-moz-transition:all 0.7s ease-in;  -webkit-transition:all 0.7s ease-in; }
+img:hover {opacity:.5; -moz-transition:all 0.7s ease-out;  -webkit-transition:all 0.7s ease-out;   }
+P {text-indent: 40px;line-height:13px; text-align:justify; margin: 0px 1px 0px 1px; padding: 0px 2px 0px 2px;}
+/*© N Y C K Y S  - - R I G H T S - - R E S E R V E D *//*http://www.such-style.com *//*© 2008 - 2018 Nyckys | ALL RIGHTS RESERVED. | SUCH STYLE! ™  */
